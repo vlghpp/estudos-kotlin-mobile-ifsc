@@ -1,4 +1,4 @@
-package com.example.myapplication
+package ads.mov.comviewmodel
 
 import org.junit.Test
 
